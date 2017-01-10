@@ -4,6 +4,12 @@
   "version": "1.0.0",
   "description": "Bidirectional Serbian language JavaScript transliterator.",
   "main": "index.js",
+  "scripts": {
+    "test": "tape tests/**/*.js"
+  },
+  "devDependencies": {
+    "tape": "^4.6.3"
+  },
   "repository": "dimadin/serbianTransliteration",
   "bugs": {
     "url": "https://github.com/dimadin/serbianTransliteration/issues"
