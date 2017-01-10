@@ -1,0 +1,18 @@
+{
+  "name": "serbian-transliteration",
+  "title": "serbianTransliteration",
+  "version": "1.0.0",
+  "description": "Bidirectional Serbian language JavaScript transliterator.",
+  "main": "index.js",
+  "repository": "dimadin/serbianTransliteration",
+  "bugs": {
+    "url": "https://github.com/dimadin/serbianTransliteration/issues"
+  },
+  "keywords": [
+    "Serbian",
+    "transliterator",
+    "transliteration",
+    "transliterate"
+  ],
+  "author": "Milan Dinić"
+}
