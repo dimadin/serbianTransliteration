@@ -4,6 +4,7 @@
  * @description Bidirectional Serbian language JavaScript transliterator.
  * @version     1.0.0
  * @author      Milan Dinić <blog.milandinic.com>
+ * @license     https://unlicense.org/ Unlicense
  */
 ( function( root, factory ) {
 	if ( typeof define === 'function' && define.amd ) {
